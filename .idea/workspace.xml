@@ -11,7 +11,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f0a4f8f2-34a5-4028-95e9-6bcb7227c018" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/csv/csv.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/csv/demo.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/main.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,7 +22,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="DarkyenusTimeTracker">
-    <option name="totalTimeSeconds" value="553" />
+    <option name="totalTimeSeconds" value="1863" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -65,5 +68,19 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="137" y="39" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1590488045575">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="137" y="39" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.768@0.0.1366.768" timestamp="1590488045575" />
+    <state x="263" y="39" key="editAsTableFormatDialogDimension" timestamp="1590487948778">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="263" y="39" key="editAsTableFormatDialogDimension/0.0.1366.768@0.0.1366.768" timestamp="1590487948778" />
+    <state x="4" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1590487652295">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="4" y="89" width="672" height="678" key="search.everywhere.popup/0.0.1366.768@0.0.1366.768" timestamp="1590487652295" />
   </component>
 </project>
